@@ -11,4 +11,3 @@ class page_contact extends Page {
         $cr->grid->addColumn('link','loan_money',['descr'=>'Loan Money','id_field'=>'contact_id','page'=>'loan']);
 
     }
-}

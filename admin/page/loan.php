@@ -74,4 +74,3 @@ class page_loan extends Page {
         $bs->add('Button')->set('Contact Email');
 
     }
-}
